@@ -70,3 +70,6 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 1. yarn add vite --dev
 2. yarn install
 3. yarn build
+
+## Need to run migration after clone project
+php artisan migrate
